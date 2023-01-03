@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": "Narasareddy",
+      "name": "BalijepalliNarasareddy",
+      "password": "reddy@123",
+      "email": "reddy123@gmail.com",
+      "phone": "9989438214",
+      "country": "india",
+      "address": "Kothapeta",
+      "gender": "male"
+    },
+    {
+      "id": "Ramu",
+      "name": "Ramu Reddy",
+      "password": "ramu@123",
+      "email": "ramu123@gmail.com",
+      "phone": "9988776655",
+      "country": "india",
+      "address": "Hyd",
+      "gender": "male"
+    }
+  ]
+}
